@@ -22,8 +22,11 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 When user use filter needs to know special date for input. 
 
 1.In the "date" filter button doesn't have calendar options. 
+
 2.In the "Enter city"  and "Enter State" buttons does not have autofill options
+
 3.Web page doesn't have relation for different devices, just works for  computer's browser.
+
 4.Doesn't have translete options for different langueges.
 
 **Recommendations:**
