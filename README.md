@@ -12,6 +12,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
  **Has fillter button for filltering by creteria**
 ![This is an image](https://github.com/olenarabani/UFOs/blob/main/static/images/Filter%20Search%20button.png)
 ![This is an image](https://github.com/olenarabani/UFOs/blob/main/static/images/Filter%20Search%20button%20_date.png)
+![This is an image](https://github.com/olenarabani/UFOs/blob/main/static/images/data%20after%20filter.png)
  **Has data in the table what changing after filter**
 ![This is an image](https://github.com/olenarabani/UFOs/blob/main/static/images/data.png)
 
